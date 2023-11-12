@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+}
+
+.pad {
+    padding: 5px;
+    padding-left: 50px;
+}
+
+.h1 {
+    border: 2px solid olive;
+}
